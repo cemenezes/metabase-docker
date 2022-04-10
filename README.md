@@ -1,5 +1,5 @@
 # metabase-docker
-Metabase configurado com Postgres
+Configuração básica do Metabase com Postgres
 
 Alterar as configurações de ambiente no arquivo .env
 
